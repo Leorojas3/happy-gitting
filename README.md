@@ -1,6 +1,8 @@
 # happy-gitting
 Try out git and all that
 
+##How to use this
+
 ## Notes on my happy glitting
 
 **bold**
